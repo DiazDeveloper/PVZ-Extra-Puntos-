@@ -1,0 +1,3 @@
+D:\Algoritmos\Semana 12\PlantasVsZombies\PlantasVsZombies\x64\Debug\PlantasVsZombies.vcxproj.AssemblyReference.cache
+D:\Algoritmos\Semana 12\PlantasVsZombies\PlantasVsZombies\x64\Debug\PlantasVsZombies.MyForm.resources
+D:\Algoritmos\Semana 12\PlantasVsZombies\PlantasVsZombies\x64\Debug\PlantasVsZombies.vcxproj.GenerateResource.cache
